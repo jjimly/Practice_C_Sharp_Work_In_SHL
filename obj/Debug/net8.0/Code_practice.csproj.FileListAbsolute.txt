@@ -1,0 +1,15 @@
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\bin\Debug\net8.0\Code_practice.exe
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\bin\Debug\net8.0\Code_practice.deps.json
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\bin\Debug\net8.0\Code_practice.runtimeconfig.json
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\bin\Debug\net8.0\Code_practice.dll
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\bin\Debug\net8.0\Code_practice.pdb
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.AssemblyInfoInputs.cache
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.AssemblyInfo.cs
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.csproj.CoreCompileInputs.cache
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.sourcelink.json
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.dll
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\refint\Code_practice.dll
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.pdb
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\Code_practice.genruntimeconfig.cache
+C:\Users\astor.hsu\OneDrive - shl-group.com\文件\Work\EMAI\C_Sharp_Practice\Code_practice\obj\Debug\net8.0\ref\Code_practice.dll
